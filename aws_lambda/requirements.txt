@@ -1,0 +1,7 @@
+numpy
+scipy
+torch
+torchvision
+Pillow
+opencv-python-headless
+matplotlib
